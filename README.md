@@ -14,7 +14,7 @@ Swipe to control the power and direction of your shots.
 Aim for the goal and score as many points as possible within 90 seconds.
 Overcome increasing difficulties as targets start moving.
 
-##App Demo
+## Game Demo
 [Watch App Demo](https://youtu.be/bvNGwB_ab3M)
 
 ## Technologies Used
